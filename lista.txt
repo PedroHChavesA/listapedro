@@ -2,3 +2,5 @@ café
 açucar
 pão
 biscoito
+sal
+macarrão
